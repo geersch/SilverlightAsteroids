@@ -1,7 +1,7 @@
 Silverlight Asteroids
 =====================
 
-An asteroids game made in Silverlight, which I made back in 2010.
+An asteroids game made in Silverlight.
 
 You can find more information about the code on my blog.
 
@@ -17,3 +17,4 @@ You can find more information about the code on my blog.
 * [Silverlight Asteroids Part 10: Asteroid Fragments](http://cgeers.com/2010/07/18/silverlight-asteroids-part-10-asteroid-fragments/)
 
 
+All of these blog articles are also available as PDF documents in the doc folder.
