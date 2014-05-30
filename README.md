@@ -1,7 +1,7 @@
 Silverlight Asteroids
 =====================
 
-An asteroids game made in Silverlight, which I made back in 2010.
+An asteroids game made in Silverlight.
 
 You can find more information about the code on my blog.
 
