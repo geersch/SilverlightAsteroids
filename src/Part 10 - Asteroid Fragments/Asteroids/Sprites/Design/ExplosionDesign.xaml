@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="Asteroids.Sprites.Design.ExplosionDesign"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="55" Height="55">
+    <Canvas x:Name="ExplosionCanvas" Background="Transparent">
+        <Image x:Name="Image" 
+               Source="/Asteroids;component/Media/Images/Explosion1.png"  
+               Canvas.Left="0" Canvas.Top="0" />
+    </Canvas>
+</UserControl>
