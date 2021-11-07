@@ -1,20 +1,14 @@
-Silverlight Asteroids
-=====================
+# Silverlight Asteroids
 
-A 10-part series tutorial on how to create an Asteroids game in Silverlight.
+A 10-part series tutorial on how to create an Asteroids game with Silverlight. Written between 2010-04-18 and 2010-07-18.
 
-You can find more information about the code on my blog.
-
-* [Silverlight Asteroids Part 1: Game Loop](http://cgeers.com/2010/04/18/silverlight-asteroids-part-1-game-loop/)
-* [Silverlight Asteroids Part 2: Sprites](http://cgeers.com/2010/04/21/silverlight-asteroids-part-2-sprites/)
-* [Silverlight Asteroids Part 3: Keyboard Control](http://cgeers.com/2010/04/28/silverlight-asteroids-part-3-keyboard-control/)
-* [Silverlight Asteroids Part 4: Space](http://cgeers.com/2010/05/01/silverlight-asteroids-part-4-space/)
-* [Silverlight Asteroids Part 5: Asteroids](http://cgeers.com/2010/05/03/silverlight-asteroids-part-5-asteroids/)
-* [Silverlight Asteroids Part 6: Fire!](http://cgeers.com/2010/05/07/silverlight-asteroids-part-6-fire/)
-* [Silverlight Asteroids Part 7: Collision Detection](http://cgeers.com/2010/05/24/silverlight-asteroids-part-7-collision-detection/)
-* [Silverlight Asteroids Part 8: Pixel-Perfect Collision Detection](http://cgeers.com/2010/06/20/silverlight-asteroids-part-8-pixel-perfect-collision-detection/)
-* [Silverlight Asteroids Part 9: Explosions](http://cgeers.com/2010/06/27/silverlight-asteroids-part-9-explosions/)
-* [Silverlight Asteroids Part 10: Asteroid Fragments](http://cgeers.com/2010/07/18/silverlight-asteroids-part-10-asteroid-fragments/)
-
-
-All of these blog articles are also available as PDF documents in the doc folder.
+- [Silverlight Asteroids Part 1: Game Loop](src/part-1/README.md)
+- [Silverlight Asteroids Part 2: Sprites](src/part-2/README.md)
+- [Silverlight Asteroids Part 3: Keyboard Control](src/part-3/README.md)
+- [Silverlight Asteroids Part 4: Space](src/part-4/README.md)
+- [Silverlight Asteroids Part 5: Asteroids](src/part-5/README.md)
+- [Silverlight Asteroids Part 6: Fire!](src/part-6/README.md)
+- [Silverlight Asteroids Part 7: Collision Detection](src/part-7/README.md)
+- [Silverlight Asteroids Part 8: Pixel-Perfect Collision Detection](src/part-8/README.md)
+- [Silverlight Asteroids Part 9: Explosions](src/part-9/README.md)
+- [Silverlight Asteroids Part 10: Asteroid Fragments](src/part-10/README.md)
